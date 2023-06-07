@@ -96,6 +96,69 @@ dimwishlist:item=65611680&perks=2779035018,1015611457
 dimwishlist:item=65611680&perks=588594999,706527188
 
 
+// Play of the Game - 게임의 법칙 (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=195440257&perks=981914802,409831596,957782887,706527188
+dimwishlist:item=195440257&perks=981914802,409831596,2846385770,706527188
+dimwishlist:item=195440257&perks=3525010810,409831596,957782887,706527188
+dimwishlist:item=195440257&perks=3525010810,409831596,2846385770,706527188
+
+
+// Play of the Game - 게임의 법칙 (pvp)
+//notes: tags:pvp
+dimwishlist:item=195440257&perks=957782887,706527188
+dimwishlist:item=195440257&perks=2846385770,706527188
+
+
+// Berenger's Memory - 베린저의 기억 (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,3523296417
+dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,3300816228
+dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3523296417
+dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3300816228
+
+
+// Berenger's Memory - 베린저의 기억 (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=407621213&perks=981914802,3301904089,2284787283
+dimwishlist:item=407621213&perks=3525010810,3301904089,2284787283
+
+
+// Berenger's Memory - 베린저의 기억 (pve)
+//notes: tags:pve
+dimwishlist:item=407621213&perks=3301904089,3523296417
+dimwishlist:item=407621213&perks=3301904089,3300816228
+
+
+// Berenger's Memory - 베린저의 기억 (pve)
+//notes: tags:pve
+dimwishlist:item=407621213&perks=3301904089,2284787283
+
+
+// Swarm of the Raven - 까마귀 무리 (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=433905699&perks=1844523823,3301904089,2284787283,2888557110,3989629871
+dimwishlist:item=433905699&perks=1844523823,3301904089,3300816228,2888557110,3989629871
+dimwishlist:item=433905699&perks=1844523823,3301904089,3523296417,2888557110,3989629871
+
+
+// Swarm of the Raven - 까마귀 무리 (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=433905699&perks=981914802,409831596,951095735,2048641572,3989629871
+
+
+// Swarm of the Raven - 까마귀 무리 (pve)
+//notes: tags:pve
+dimwishlist:item=433905699&perks=3301904089,2284787283,3989629871
+dimwishlist:item=433905699&perks=3301904089,3300816228,3989629871
+dimwishlist:item=433905699&perks=3301904089,3523296417,3989629871
+
+
+// Swarm of the Raven - 까마귀 무리 (pvp)
+//notes: tags:pvp
+dimwishlist:item=433905699&perks=409831596,951095735
+
+
 // Chattering Bone - 수다쟁이뼈 (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=568515759&perks=839105230,1561002382,1168162263,3425386926
@@ -106,6 +169,16 @@ dimwishlist:item=568515759&perks=839105230,1968497646,1168162263,3425386926
 // Chattering Bone - 수다쟁이뼈 (pve)
 //notes: tags:pve
 dimwishlist:item=568515759&perks=1168162263,3425386926
+
+
+// Falling Guillotine - 떨어지는 단두대 (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
+
+
+// Falling Guillotine - 떨어지는 단두대 (pve)
+//notes: tags:pve
+dimwishlist:item=614426548&perks=1749209109,3913600130
 
 
 // Gallu RR3 - 갈루RR3 (god-pve)
@@ -132,6 +205,28 @@ dimwishlist:item=617501162&perks=3643424744,2896038713
 // Gallu RR3 - 갈루RR3 (pvp)
 //notes: tags:pvp
 dimwishlist:item=617501162&perks=509074078,957782887
+
+
+// Hand in Hand - 손에 손 잡고 (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=664109750&perks=1482024992,791862061,3161816588,2679249093,2120661319
+dimwishlist:item=664109750&perks=1300023272,791862061,3161816588,2679249093,2120661319
+dimwishlist:item=664109750&perks=4090651448,791862061,3161816588,2679249093,2120661319
+
+
+// Hand in Hand - 손에 손 잡고 (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=664109750&perks=1047830412,3142289711,3161816588,3511092054,2120661319
+
+
+// Hand in Hand - 손에 손 잡고 (pve)
+//notes: tags:pve
+dimwishlist:item=664109750&perks=3161816588,2679249093,2120661319
+
+
+// Hand in Hand - 손에 손 잡고 (pvp)
+//notes: tags:pvp
+dimwishlist:item=664109750&perks=3161816588,3511092054,2120661319
 
 
 // Gnawing Hunger - 영혼을갉아먹는허기 (god-pve)
@@ -162,6 +257,20 @@ dimwishlist:item=821154603&perks=3643424744,4082225868
 // Gnawing Hunger - 영혼을갉아먹는허기 (pvp)
 //notes: tags:pvp
 dimwishlist:item=821154603&perks=1890422124,4082225868
+
+
+// Marsilion-C - 마실리온-C (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=867154247&perks=981914802,3301904089,2869569095,1546637391,1607056502
+dimwishlist:item=867154247&perks=981914802,3301904089,2869569095,3194351027,1607056502
+dimwishlist:item=867154247&perks=3525010810,3301904089,2869569095,1546637391,1607056502
+dimwishlist:item=867154247&perks=3525010810,3301904089,2869569095,3194351027,1607056502
+
+
+// Marsilion-C - 마실리온-C (pve)
+//notes: tags:pve
+dimwishlist:item=867154247&perks=3301904089,1546637391,1607056502
+dimwishlist:item=867154247&perks=3301904089,3194351027,1607056502
 
 
 // Cold Denial - 차가운부정 (god-pve)
@@ -212,6 +321,16 @@ dimwishlist:item=1253087083&perks=1354429876,2213355989
 // IKELOS_SR_v1.0.2 - 이켈로스_SR_V1.0.2 (pvp)
 //notes: tags:pvp
 dimwishlist:item=1253087083&perks=588594999,706527188
+
+
+// Dimensional Hypotrochoid - 차원 하이포트로코이드 (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1311684613&perks=1478423395,2822142346,2869569095,2396489472
+
+
+// Dimensional Hypotrochoid - 차원 하이포트로코이드 (pve)
+//notes: tags:pve
+dimwishlist:item=1311684613&perks=2869569095,2396489472
 
 
 // Trustee - 수탁자 (god-pve)
@@ -317,6 +436,16 @@ dimwishlist:item=1403800851&perks=280464955,1546637391,3989629871
 //notes: tags:pvp
 dimwishlist:item=1403800851&perks=957782887,47981717,3989629871
 dimwishlist:item=1403800851&perks=957782887,588594999,3989629871
+
+
+// Nasreddin - 나스레딘 (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1456017061&perks=3666208348,269888150,1749209109,3913600130,2120661319
+
+
+// Nasreddin - 나스레딘 (pve)
+//notes: tags:pve
+dimwishlist:item=1456017061&perks=1749209109,3913600130,2120661319
 
 
 // Biting Winds - 따가운바람 (god-pve)
@@ -484,6 +613,32 @@ dimwishlist:item=2222560548&perks=1820235745,3523296417
 dimwishlist:item=2222560548&perks=1359896290,1890422124
 
 
+// Interference VI - 간섭자 VI (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,3523296417
+dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,2888557110
+dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,3523296417
+
+
+// Interference VI - 간섭자 VI (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2257180473&perks=409831596,4071163871
+
+
+// Interference VI - 간섭자 VI (pve)
+//notes: tags:pve
+dimwishlist:item=2257180473&perks=3301904089,3300816228,2888557110
+dimwishlist:item=2257180473&perks=3301904089,3300816228,3523296417
+dimwishlist:item=2257180473&perks=3301904089,2284787283,2888557110
+dimwishlist:item=2257180473&perks=3301904089,2284787283,3523296417
+
+
+// Interference VI - 간섭자 VI (pvp)
+//notes: tags:pvp
+dimwishlist:item=2257180473&perks=409831596
+
+
 // Seventh Seraph SAW - 일곱 번째 세라프 SAW (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=2582755344&perks=839105230,1968497646,3300816228,1546637391
@@ -620,6 +775,48 @@ dimwishlist:item=2856514843&perks=588594999,460017080,4008116374
 dimwishlist:item=2856514843&perks=588594999,124408337,4008116374
 
 
+// Honor's Edge - 명예의 요소 (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2857348871&perks=3666208348,269888150,1749209109,3708227201
+
+
+// Honor's Edge - 명예의 요소 (pve)
+//notes: tags:pve
+dimwishlist:item=2857348871&perks=1749209109,3708227201
+
+
+// Until Its Return - 귀환을 기다리며 (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2883484461&perks=1482024992,106909392,3643424744,1546637391,2053642371
+dimwishlist:item=2883484461&perks=1482024992,106909392,3643424744,3708227201,2053642371
+dimwishlist:item=2883484461&perks=1482024992,106909392,3643424744,11612903,2053642371
+dimwishlist:item=2883484461&perks=1482024992,106909392,3300816228,1546637391,2053642371
+dimwishlist:item=2883484461&perks=1482024992,106909392,3300816228,3708227201,2053642371
+dimwishlist:item=2883484461&perks=1482024992,106909392,3300816228,11612903,2053642371
+dimwishlist:item=2883484461&perks=4090651448,106909392,3643424744,1546637391,2053642371
+dimwishlist:item=2883484461&perks=4090651448,106909392,3643424744,3708227201,2053642371
+dimwishlist:item=2883484461&perks=4090651448,106909392,3643424744,11612903,2053642371
+dimwishlist:item=2883484461&perks=4090651448,106909392,3300816228,1546637391,2053642371
+dimwishlist:item=2883484461&perks=4090651448,106909392,3300816228,3708227201,2053642371
+dimwishlist:item=2883484461&perks=4090651448,106909392,3300816228,11612903,2053642371
+dimwishlist:item=2883484461&perks=1300023272,106909392,3643424744,1546637391,2053642371
+dimwishlist:item=2883484461&perks=1300023272,106909392,3643424744,3708227201,2053642371
+dimwishlist:item=2883484461&perks=1300023272,106909392,3643424744,11612903,2053642371
+dimwishlist:item=2883484461&perks=1300023272,106909392,3300816228,1546637391,2053642371
+dimwishlist:item=2883484461&perks=1300023272,106909392,3300816228,3708227201,2053642371
+dimwishlist:item=2883484461&perks=1300023272,106909392,3300816228,11612903,2053642371
+
+
+// Until Its Return - 귀환을 기다리며 (pve)
+//notes: tags:pve
+dimwishlist:item=2883484461&perks=3643424744,1546637391
+dimwishlist:item=2883484461&perks=3643424744,3708227201
+dimwishlist:item=2883484461&perks=3643424744,11612903
+dimwishlist:item=2883484461&perks=3300816228,1546637391
+dimwishlist:item=2883484461&perks=3300816228,3708227201
+dimwishlist:item=2883484461&perks=3300816228,11612903
+
+
 // Succession - 계승 (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1546637391
@@ -640,6 +837,29 @@ dimwishlist:item=2990047042&perks=1523832109,1546637391
 // Succession - 계승 (pvp)
 //notes: tags:pvp
 dimwishlist:item=2990047042&perks=588594999,957782887
+
+
+// Memory Interdict - 기억 금지 (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3165547384&perks=981914802,409831596,951095735,2396489472
+dimwishlist:item=3165547384&perks=3525010810,409831596,951095735,2396489472
+
+
+// Memory Interdict - 기억 금지 (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3165547384&perks=981914802,3301904089,3300816228,2396489472
+dimwishlist:item=3165547384&perks=981914802,3301904089,2284787283,2396489472
+
+
+// Memory Interdict - 기억 금지 (pvp)
+//notes: tags:pvp
+dimwishlist:item=3165547384&perks=409831596,951095735
+
+
+// Memory Interdict - 기억 금지 (pve)
+//notes: tags:pve
+dimwishlist:item=3165547384&perks=3301904089,3300816228
+dimwishlist:item=3165547384&perks=3301904089,2284787283
 
 
 // Posterity - 후세 (god-pve)
@@ -746,13 +966,43 @@ dimwishlist:item=3292795429&perks=1428297954,1015611457,4091460919
 
 // Bequest - 유증 (god-pve)
 //notes: tags:god-pve
-dimwishlist:item=3366545721&perks=436053704,269888150,1749209109,3708227201,766321425
-dimwishlist:item=3366545721&perks=938542991,269888150,1749209109,3708227201,766321425
+dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,1546637391,766321425
 
 
 // Bequest - 유증 (pve)
 //notes: tags:pve
-dimwishlist:item=3366545721&perks=1749209109,3708227201,766321425
+dimwishlist:item=3366545721&perks=1749209109,1546637391,766321425
+
+
+// Crowd Pleaser - 만족스러운 관중 (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3565520715&perks=981914802,3301904089,2284787283,3523296417,515704826
+dimwishlist:item=3565520715&perks=981914802,3301904089,2869569095,3523296417,515704826
+dimwishlist:item=3565520715&perks=3525010810,3301904089,2284787283,3523296417,515704826
+dimwishlist:item=3565520715&perks=3525010810,3301904089,2869569095,3523296417,515704826
+
+
+// Crowd Pleaser - 만족스러운 관중 (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3565520715&perks=981914802,409831596,2450788523,3108830275,515704826
+dimwishlist:item=3565520715&perks=981914802,409831596,2450788523,2396489472,515704826
+dimwishlist:item=3565520715&perks=981914802,409831596,2450788523,706527188,515704826
+dimwishlist:item=3565520715&perks=3525010810,409831596,2450788523,3108830275,515704826
+dimwishlist:item=3565520715&perks=3525010810,409831596,2450788523,2396489472,515704826
+dimwishlist:item=3565520715&perks=3525010810,409831596,2450788523,706527188,515704826
+
+
+// Crowd Pleaser - 만족스러운 관중 (pve)
+//notes: tags:pve
+dimwishlist:item=3565520715&perks=3301904089,2284787283,515704826
+dimwishlist:item=3565520715&perks=3301904089,2869569095,515704826
+
+
+// Crowd Pleaser - 만족스러운 관중 (pvp)
+//notes: tags:pvp
+dimwishlist:item=3565520715&perks=409831596,3108830275,515704826
+dimwishlist:item=3565520715&perks=409831596,2396489472,515704826
+dimwishlist:item=3565520715&perks=409831596,706527188,515704826
 
 
 // Typhon GL5 - 티폰GL5 (god-pve)
@@ -865,6 +1115,16 @@ dimwishlist:item=4230965989&perks=1523832109,3425386926,766321425
 // Commemoration - 기념 (pvp)
 //notes: tags:pvp
 dimwishlist:item=4230965989&perks=3436462433,1645158859,766321425
+
+
+// Steel Sybil Z-14 - 강철의 시빌 Z-14 (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=4230993599&perks=3666208348,269888150,1749209109,3913600130
+
+
+// Steel Sybil Z-14 - 강철의 시빌 Z-14 (pve)
+//notes: tags:pve
+dimwishlist:item=4230993599&perks=1749209109,3913600130
 
 
 // The Hothead - 급한성미 (god-pve)
